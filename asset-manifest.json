@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/WinterOfCode-6.1/static/css/main.854f5254.css",
+    "main.js": "/WinterOfCode-6.1/static/js/main.7d1c74c2.js",
+    "static/js/787.b9943464.chunk.js": "/WinterOfCode-6.1/static/js/787.b9943464.chunk.js",
+    "static/media/loginVideo.mp4": "/WinterOfCode-6.1/static/media/loginVideo.9cf906158dbf8e688e10.mp4",
+    "static/media/image15.jpg": "/WinterOfCode-6.1/static/media/image15.ed3089e707b2c5053140.jpg",
+    "static/media/gif19.gif": "/WinterOfCode-6.1/static/media/gif19.4a89d83ede84e57ed0e9.gif",
+    "static/media/gif20.gif": "/WinterOfCode-6.1/static/media/gif20.7ae3b0dd8e72dc3202c8.gif",
+    "static/media/homeTrain.jpg": "/WinterOfCode-6.1/static/media/homeTrain.6e152d0cb7893ae652c1.jpg",
+    "static/media/gif21.gif": "/WinterOfCode-6.1/static/media/gif21.d19de438530343bf2daa.gif",
+    "static/media/train.gif": "/WinterOfCode-6.1/static/media/train.caeb0f295bbaca27ca0c.gif",
+    "static/media/gif23.gif": "/WinterOfCode-6.1/static/media/gif23.e6ed7d7187685454c2f5.gif",
+    "static/media/gif24.gif": "/WinterOfCode-6.1/static/media/gif24.7d2c0bbd83916c28c784.gif",
+    "static/media/image17.jpeg": "/WinterOfCode-6.1/static/media/image17.ca26546d9ae970ac12b5.jpeg",
+    "static/media/gif22.gif": "/WinterOfCode-6.1/static/media/gif22.f84c4aa7e012bfd9e730.gif",
+    "static/media/image18.jpeg": "/WinterOfCode-6.1/static/media/image18.6637001febb652766972.jpeg",
+    "static/media/image16.jpeg": "/WinterOfCode-6.1/static/media/image16.771bb07110869c758e82.jpeg",
+    "static/media/image7.png": "/WinterOfCode-6.1/static/media/image7.4c7ca043a5c6a8d92e3f.png",
+    "static/media/image6.png": "/WinterOfCode-6.1/static/media/image6.135dabd457364dc17391.png",
+    "index.html": "/WinterOfCode-6.1/index.html",
+    "main.854f5254.css.map": "/WinterOfCode-6.1/static/css/main.854f5254.css.map",
+    "main.7d1c74c2.js.map": "/WinterOfCode-6.1/static/js/main.7d1c74c2.js.map",
+    "787.b9943464.chunk.js.map": "/WinterOfCode-6.1/static/js/787.b9943464.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.854f5254.css",
+    "static/js/main.7d1c74c2.js"
+  ]
+}
